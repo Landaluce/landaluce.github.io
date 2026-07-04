@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="Project screenshot placeholder">
+  <rect width="1200" height="675" fill="#111827"/>
+  <rect x="40" y="40" width="1120" height="595" rx="28" fill="#0f172a" stroke="#243244" stroke-width="4"/>
+  <rect x="90" y="95" width="320" height="28" rx="14" fill="#243244"/>
+  <rect x="90" y="150" width="1020" height="18" rx="9" fill="#1f2937"/>
+  <rect x="90" y="186" width="930" height="18" rx="9" fill="#1f2937"/>
+  <rect x="90" y="222" width="860" height="18" rx="9" fill="#1f2937"/>
+  <rect x="90" y="285" width="500" height="260" rx="22" fill="#111827" stroke="#243244" stroke-width="3"/>
+  <rect x="630" y="285" width="480" height="120" rx="22" fill="#111827" stroke="#243244" stroke-width="3"/>
+  <rect x="630" y="425" width="480" height="120" rx="22" fill="#111827" stroke="#243244" stroke-width="3"/>
+  <circle cx="600" cy="340" r="70" fill="#38bdf8" opacity="0.18"/>
+  <path d="M570 340h60M600 310v60" stroke="#38bdf8" stroke-width="10" stroke-linecap="round"/>
+  <text x="600" y="595" text-anchor="middle" fill="#94a3b8" font-family="Arial, Helvetica, sans-serif" font-size="34">
+    Project Screenshot Placeholder
+  </text>
+</svg>
